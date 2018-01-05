@@ -36,5 +36,6 @@ nosetests.xml
 .pydevproject
 
 venv
+flask
 app.db
 microblog.log*
