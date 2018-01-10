@@ -34,8 +34,8 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
-
-venv
 flask
+venv
+flask/
 app.db
 microblog.log*
